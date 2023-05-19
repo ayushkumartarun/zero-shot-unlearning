@@ -5,7 +5,7 @@ Official repo of the paper Zero-Shot Machine Unlearning accepted in IEEE Transac
 We introduce the problem statement of unlearning with no training samples and propose two solutions for the same. Unlearning quality has been evaluated through various metrics including membership inference attacks and inversion attacks. Also, a new metric called Anamnesis Index (AIN) has been introduced.
 
 ## Paper
-(Zero-Shot Machine Unlearning)[https://ieeexplore.ieee.org/document/10097553]
+[Zero-Shot Machine Unlearning](https://ieeexplore.ieee.org/document/10097553)
 
 ## BibTex
 @article{chundawat2023zero,
